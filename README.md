@@ -2,9 +2,9 @@
 
 👀 Builder, maker, music lover and professional button-presser of "what if?" and "why not?"
 
-:alembic: Welcome to the lab, prototypes are alive, and one of them just learned to open doors oh... the lab smoke is probably fine!
-:seedling: Forging inventions to make life lighter and better.
-:soon: Latest experiment is brewing and it has stopped answering to me. ⚡
+⚗️ Welcome to the lab, prototypes are alive, and one of them just learned to open doors. Oh... the lab smoke is probably fine! 
+🌱 Forging inventions to make life lighter and better. 
+🔜 Latest experiment is brewing and it has stopped answering to me. 
 
 📫 Send a message, brave soul! Let us conspire over code, music, and things that should not work but DO! MWAHAHAHA!
 
